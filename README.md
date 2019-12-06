@@ -1,2 +1,2 @@
 # GMS2-Controls
-GameMaker Studio II Control Models
+This is a demonstration of various types of player controls for simple 2-D games.
